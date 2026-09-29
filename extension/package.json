@@ -1,0 +1,27 @@
+{
+  "name": "ayoub-metali",
+  "displayName": "ayoub Theme",
+  "description": "a warm monochrome theme for VS Code, dark + light.",
+  "version": "1.1.0",
+  "publisher": "ayoubmetali",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ayoub Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayoub Theme Dark-color-theme.json"
+      },
+      {
+        "label": "ayoub Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/ayoub Theme Light-color-theme.json"
+      }
+    ]
+  }
+}
