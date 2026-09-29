@@ -1,3 +1,5 @@
+<!-- © ayoub lksna -->
+
 # ayoub Theme
 
 **a warm monochrome theme for VS Code — in dark and light.**
@@ -106,3 +108,5 @@ MIT © ayoub lksna (see the `LICENSE` file)
 ---
 
 *have fun with the code. and have fun with your life, you only got one.*
+
+<!-- © ayoub lksna -->

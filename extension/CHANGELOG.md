@@ -1,3 +1,5 @@
+<!-- © ayoub lksna -->
+
 # Changelog
 
 all notable changes to **ayoub Theme** are documented here.
@@ -70,3 +72,5 @@ the first release, before the redesign.
 [1.1.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.1
 [1.1.0]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.0
 [1.0.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.0.1
+
+<!-- © ayoub lksna -->
