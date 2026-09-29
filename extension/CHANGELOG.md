@@ -11,6 +11,19 @@ made by **ayoub lksna** — [github.com/ayoublksna](https://github.com/ayoublksn
 
 ---
 
+## [1.1.2] — the signature
+
+a quiet release, no color changes. the themes are byte for byte the same as
+`1.1.1`.
+
+### added
+
+- a `© ayoub lksna` signature at the top and bottom of every text file in the
+  repo — readmes, changelog, license, `.vscodeignore`, `package.json` and both
+  theme files
+
+<!-- © ayoub lksna -->
+
 ## [1.1.1] — the gallery polish
 
 no color changes here, the themes are byte for byte the same as `1.1.0`. this
@@ -69,6 +82,7 @@ the first release, before the redesign.
 
 - **ayoub lksna**
 
+[1.1.2]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.2
 [1.1.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.1
 [1.1.0]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.0
 [1.0.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.0.1
