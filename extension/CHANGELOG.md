@@ -1,23 +1,55 @@
-# Change Log
+# Changelog
+
+all notable changes to **ayoub Theme** are documented here.
+
+format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+versioning follows [semver](https://semver.org/spec/v2.0.0.html).
+
+made by **ayoub lksna** — [github.com/ayoublksna](https://github.com/ayoublksna)
+
+---
+
+## [1.1.0] — the redesign
 
 i jsut wanna thank my self for having no life to making this theme,
 
 and thank you too my friend for using it :)
 
-* Check out [my youtube channel](https://www.youtube.com/@mEtAlOdIYT) just to help me out if you want ._.
+* say hi on [linkedin](https://www.linkedin.com/in/ayoub-lksna/) or
+  [github](https://github.com/ayoublksna) if something looks off ._.
 
-## 1.1.0 — new design
+### added
 
-the purple is gone ._. the theme now shares the portfolio palette: warm monochrome UI
-(`#050505` / `#0a0a0b` / `#0e0e0f` dark, `#f2f0ec` / `#f8f6f1` / `#eceae4` light) with milky
-warm accents for code (muted gold keywords, milky apricot operators, sand types, khaki
-strings, clay constants, terracotta errors).
+- **ayoub Theme Light**, to go with **ayoub Theme Dark** — a full light palette
+  for the workbench, not just the editor
+- a complete warm monochrome palette shared by both themes, role for role:
+  warm near-black surfaces in dark (`#0c0c0c` / `#111111` / `#070707`) and warm
+  paper in light (`#ecece8` / `#f7f7f4` / `#dddddd`), with milky warm accents
+  for code — muted gold keywords, milky apricot operators, sand types, khaki
+  strings, clay constants, terracotta errors
+- semantic highlighting in both themes, with overrides for `enumMember`,
+  `variable.constant` and `variable.defaultLibrary`
+- 304 (dark) and 303 (light) workbench colors, 247 token rules per theme
+- gallery icon, keywords, MIT license, full palette documentation
 
-* added **ayoub Theme Light** to go with **ayoub Theme Dark**
-* added a full light palette for the workbench, not just the editor
-* every UI surface (tabs, sidebar, status bar, terminal, minimap, git, peek view) is now
-  derived from the portfolio design tokens
+### changed
 
-## [Created by]
+- the purple is gone ._. everything is now derived from the portfolio design
+  tokens
+- every UI surface is themed: tabs, sidebar, status bar, activity bar, terminal,
+  minimap, git decorations, peek view, quick pick, notifications, breadcrumbs,
+  scrollbars
+- diff, markdown, git and terminal colors now match the palette instead of
+  falling back to defaults
+- renamed to **ayoub Theme** so the dark and light pair reads as one thing
+
+## [1.0.1] — the original purple theme
+
+the first release, before the redesign.
+
+## [created by]
 
 - **ayoub lksna**
+
+[1.1.0]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.0
+[1.0.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.0.1
