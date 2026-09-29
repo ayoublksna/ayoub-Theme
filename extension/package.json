@@ -3,10 +3,18 @@
   "displayName": "ayoub Theme",
   "description": "a warm monochrome theme for VS Code, in dark and light.",
   "author": "ayoub lksna",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "ayoubmetali",
   "license": "MIT",
   "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayoublksna/ayoub-Theme.git"
+  },
+  "homepage": "https://github.com/ayoublksna/ayoub-Theme#readme",
+  "bugs": {
+    "url": "https://github.com/ayoublksna/ayoub-Theme/issues"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },

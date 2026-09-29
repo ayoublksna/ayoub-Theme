@@ -9,6 +9,22 @@ made by **ayoub lksna** — [github.com/ayoublksna](https://github.com/ayoublksn
 
 ---
 
+## [1.1.1] — the gallery polish
+
+no color changes here, the themes are byte for byte the same as `1.1.0`. this
+release is only about how the page looks.
+
+### added
+
+- a round profile picture next to my name at the top of the readme
+- the real palette tables as images, one per theme, instead of plain text
+- animated gifs for the screenshots, dark and light, so you can see the workbench
+  without leaving the page
+
+### changed
+
+- the readme no longer points at placeholder screenshots
+
 ## [1.1.0] — the redesign
 
 i jsut wanna thank my self for having no life to making this theme,
@@ -51,5 +67,6 @@ the first release, before the redesign.
 
 - **ayoub lksna**
 
+[1.1.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.1
 [1.1.0]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.1.0
 [1.0.1]: PUT-YOUR-REPO-URL-HERE/releases/tag/v1.0.1
