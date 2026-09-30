@@ -11,6 +11,20 @@ made by **ayoub lksna** — [github.com/ayoublksna](https://github.com/ayoublksn
 
 ---
 
+## [1.1.3] — the relabel
+
+no color changes, the themes are byte for byte the same as `1.1.2`. this one is
+only about how the extension names itself in search results.
+
+### changed
+
+- `displayName` is now `ayoub Theme` instead of `ayoub METALI`, so the marketplace
+  page and the google snippet match the theme labels
+- `description` rewritten to `a warm monochrome theme for VS Code, in dark and
+  light.`, replacing the old first-person blurb
+
+<!-- © ayoub lksna -->
+
 ## [1.1.2] — the signature
 
 a quiet release, no color changes. the themes are byte for byte the same as
