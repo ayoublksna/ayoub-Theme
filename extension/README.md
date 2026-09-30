@@ -97,6 +97,8 @@ see `CHANGELOG.md`. short version:
 - Portfolio — [ayoublksna.is-a.dev](https://ayoublksna.is-a.dev/)
 - GitHub — [github.com/ayoublksna](https://github.com/ayoublksna)
 - LinkedIn — [linkedin.com/in/ayoub-lksna](https://www.linkedin.com/in/ayoub-lksna/)
+- WhatsApp — [wa.me/212661675867](https://wa.me/212661675867)
+- Phone — [+212661675867](tel:+212661675867)
 - email — [ayoublksna@hotmail.com](mailto:ayoublksna@hotmail.com)
 - [Visual Studio Code's Markdown Support](https://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
