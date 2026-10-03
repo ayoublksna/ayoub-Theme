@@ -4,7 +4,7 @@
 
 **a warm monochrome theme for VS Code — in dark and light.**
 
-<a href="https://ayoublksna.is-a.dev/"><img src="https://raw.githubusercontent.com/ayoublksna/ayoub-Theme/main/extension/logo.png" width="72" height="72" alt="ayoub lksna"></a> **[ayoub lksna](https://ayoublksna.is-a.dev/)**
+<a href="https://ayoublksna.com/"><img src="https://raw.githubusercontent.com/ayoublksna/ayoub-Theme/main/extension/logo.png" width="72" height="72" alt="ayoub lksna"></a> **[ayoub lksna](https://ayoublksna.com/)**
 
 no neon, no shouting colors. just warm off-black paper, milky sand
 text, and a handful of muted gold and clay accents that stay readable for
@@ -94,7 +94,7 @@ see `CHANGELOG.md`. short version:
 
 ## Links
 
-- Portfolio — [ayoublksna.is-a.dev](https://ayoublksna.is-a.dev/)
+- Portfolio — [ayoublksna.com](https://ayoublksna.com/)
 - GitHub — [github.com/ayoublksna](https://github.com/ayoublksna)
 - LinkedIn — [linkedin.com/in/ayoub-lksna](https://www.linkedin.com/in/ayoub-lksna/)
 - WhatsApp — [wa.me/212661675867](https://wa.me/212661675867)
@@ -106,7 +106,7 @@ see `CHANGELOG.md`. short version:
 
 ## License
 
-MIT © [ayoub lksna](https://ayoublksna.is-a.dev/) (see the `LICENSE` file)
+MIT © [ayoub lksna](https://ayoublksna.com/) (see the `LICENSE` file)
 
 ---
 
