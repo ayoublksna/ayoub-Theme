@@ -99,7 +99,7 @@ see `CHANGELOG.md`. short version:
 - LinkedIn — [linkedin.com/in/ayoub-lksna](https://www.linkedin.com/in/ayoub-lksna/)
 - WhatsApp — [wa.me/212661675867](https://wa.me/212661675867)
 - Phone — [+212661675867](tel:+212661675867)
-- email — [ayoublksna@hotmail.com](mailto:ayoublksna@hotmail.com)
+- email — [me@ayoublksna.com](mailto:me@ayoublksna.com)
 - [Visual Studio Code's Markdown Support](https://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 - report an issue or request a color — add your repo/issues link here
